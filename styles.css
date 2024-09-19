@@ -115,3 +115,7 @@ footer {
     text-align: center;
     padding: 10px;
 }
+iframe {
+  max-width: auto;
+  height: auto;
+}
